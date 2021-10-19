@@ -1,0 +1,25 @@
+@font-face {
+  font-family: my;
+  src: url(elianto-normal.otf);
+}
+.a {
+  font-family: my;
+}
+
+@font-face {
+  font-family: ggg;
+  src: url(vogue-normal.ttf);
+}
+
+.b {
+  font-family: ggg;
+}
+
+@font-face {
+  font-family: mmm;
+  src: url(celestina-normal.otf);
+}
+
+.c {
+  font-family: mmm;
+}
